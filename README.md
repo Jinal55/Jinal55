@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jinal 👋</h1>
-<h3 align="center">M.Sc. Data Science student | AI/ML enthusiast | Full-Stack developer</h3>
+<h3 align="center">M.Sc. IT student | AI/ML enthusiast | Full-Stack developer</h3>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Learning+Data+Science;Exploring+AI+%26+Machine+Learning;Creating+projects+and+learning+by+doing">
@@ -13,7 +13,7 @@
 
 ## About me
 
-- 🎓 M.Sc. Data Science student
+- 🎓 M.Sc. IT student
 - 💻 B.Sc. Information Technology graduate
 - 🤖 Exploring Artificial Intelligence and Machine Learning
 - 📊 Interested in Data Science and Data Analytics
